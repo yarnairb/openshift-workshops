@@ -1,5 +1,6 @@
 
 /*global module:false*/
+/*Edited by BRM*/
 module.exports = function(grunt) {
 
   // Project configuration.
